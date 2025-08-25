@@ -21,7 +21,7 @@ JAVA learning journey.
 ---
 
 ##  Project Structure
-ExpenseTracker/
+
 ├── ExpenseTracker.java
 └── README.md
 
